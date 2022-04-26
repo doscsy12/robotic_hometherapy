@@ -8,6 +8,6 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 
 | notebook                | description |
 |-------------------------|--------------|
-|      |       |
+| extract_database        | extract and clean dataset, basic time use on device |
 
 
