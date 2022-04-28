@@ -8,8 +8,9 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 
 | notebook                | description |
 |-------------------------|--------------|
-| extract_database-P001        | Player 1 - extract and clean dataset, calculates basic time usage on device |
+| extract_database-P001        | Player 1 |
 | extract_database-P002        | Player 2 |
-if notebooks get too large to render, refer to [nbviewer](https://nbviewer.org/)  for viewing.
+
+<br> if notebooks get too large to render, refer to [nbviewer](https://nbviewer.org/)  for viewing.
 
 
