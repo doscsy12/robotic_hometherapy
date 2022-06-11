@@ -14,6 +14,7 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 | extract_EDA-P004        | P004   |
 | extract_EDA-P006        | P006   |
 | data_check        | for data comparison  |
+|                   | with cloud-derived data  |
 
 <br> if notebooks get too large to render, refer to [nbviewer](https://nbviewer.org/)  for viewing.
 
