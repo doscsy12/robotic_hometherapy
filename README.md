@@ -12,7 +12,7 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 | extract_EDA-P002        | P002   |
 | extract_EDA-P003        | P003   |
 | extract_EDA-P004        | P004   |
-| extract_EDA-P006        | P005   |
+| extract_EDA-P005        | P005   |
 | extract_EDA-P006        | P006   |
 | data_check              | number of targets from database |
 | find_start_end_times    | start/end times from database in python  |
