@@ -16,6 +16,7 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 | extract_EDA-P006        | P006   |
 | data_compare            | compare cloud-derived and database data|
 | find_start_end_times    | start/end times from database in python  |
+| EDA_K_f                 | determine K_f and comparison with clinical assessments |
 | P001_result             | query variables from TFDM only of specific player |
 | P001_join               | query session data from joined GSM and TFDM |
 
