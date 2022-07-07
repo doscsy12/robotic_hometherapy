@@ -8,6 +8,7 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 
 | notebook/ sample sql codes             | description |
 |-------------------------|--------------|
+| clean_process           | clean and process data for EDA |
 | data_compare            | compare cloud-derived and database data|
 | find_start_end_times    | start/end times from database in python  |
 | EDA_K_f                 | determine K_f and comparison with clinical assessments |
