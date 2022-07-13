@@ -8,13 +8,14 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 
 | notebook/ sample sql codes             | description |
 |-------------------------|--------------|
-| clean_process           | clean and process data for EDA |
-| EDA                     | analysis using P01 as sample data |
-| data_compare            | compare cloud-derived and database data|
-| find_start_end_times    | start/end times from database in python  |
-| EDA_summary             | comparison between participants in Kf, velocity, clinical assessments, etc |
 | P001_result             | query variables from TFDM only of specific player |
 | P001_join               | query session data from joined GSM and TFDM |
+| clean_process           | clean and process data for EDA |
+| EDA                     | analysis using P01 as sample data |
+| EDA_summary             | comparison between participants in Kf, velocity, clinical assessments, etc |
+| data_compare            | compare cloud-derived and database data|
+| find_start_end_times    | start/end times from database in python  |
+
 
 
 <br> if notebooks get too large to render, refer to [nbviewer](https://nbviewer.org/)  for viewing.
