@@ -8,14 +8,13 @@ Due to these advantages, robot-mediated home-based therapy has gained some atten
 
 | notebook/ sample sql codes             | description |
 |-------------------------|--------------|
-| P001_result             | query variables from TFDM only of specific player |
-| P001_join               | query session data from joined GSM and TFDM |
-| clean_process           | clean and process data for EDA |
-| EDA                     | analysis using P01 as sample data |
-| EDA_summary             | comparison between participants in Kf, velocity, clinical assessments, etc |
-| data_compare            | compare cloud-derived and database data|
-| find_start_end_times    | start/end times from database in python  |
-
+| [P001_result](https://github.com/doscsy12/robotic_hometherapy/blob/main/P001_result.sql)             | query variables from TFDM only of specific player |
+| [P001_join](https://github.com/doscsy12/robotic_hometherapy/blob/main/P001_join.sql)               | query session data from joined GSM and TFDM |
+| [clean_process](https://github.com/doscsy12/robotic_hometherapy/blob/main/Clean_process.ipynb)           | clean and process data for EDA |
+| [EDA](https://github.com/doscsy12/robotic_hometherapy/blob/main/EDA.ipynb)                     | analysis using P01 as sample data |
+| [EDA_summary](https://github.com/doscsy12/robotic_hometherapy/blob/main/EDA_summary.ipynb)             | comparison between participants in Kf, velocity, clinical assessments, etc |
+| [data_compare](https://github.com/doscsy12/robotic_hometherapy/blob/main/data_compare.ipynb)            | compare cloud-derived and database data|
+| [find_start_end_times](https://github.com/doscsy12/robotic_hometherapy/blob/main/find_start_end_times.ipynb)    | start/end times from database in python  |
 
 
 <br> if notebooks get too large to render, refer to [nbviewer](https://nbviewer.org/)  for viewing.
