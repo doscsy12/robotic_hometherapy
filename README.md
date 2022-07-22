@@ -42,7 +42,7 @@ The results indicate that a home-based therapy with a robotic device through exe
 | [EDA_summary](https://github.com/doscsy12/robotic_hometherapy/blob/main/EDA_summary.ipynb)             | comparison between participants in Kf, velocity, clinical assessments, etc |
 | [data_compare](https://github.com/doscsy12/robotic_hometherapy/blob/main/data_compare.ipynb)            | compare cloud-derived and database data|
 | [find_start_end_times](https://github.com/doscsy12/robotic_hometherapy/blob/main/find_start_end_times.ipynb)    | start/end times from database in python  |
-
+| [Tableau](https://public.tableau.com/views/chisel-usage/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)    | time usage  |
 
 <br> if notebooks get too large to render, refer to [nbviewer](https://nbviewer.org/)  for viewing.
 
