@@ -22,12 +22,12 @@ To evaluate the performance during gameplay, we used a metric based on the smoot
 #### Clinical assessment
 As mentioned, the patients underwent clinical assessments prior to training at home. The tests were repeated at week 5 after the conclusion of the rehabilitation program. No significant differences were found in all clinical assessments after home-based rehabilitation program. While some patients adhered to the training plan, it may not have had enough impact on the patient’s motor function. No significant correlation were also found between total/average time spent and the clinical assessments. This agrees with a study by [Slijper et al., 2014](https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-11-35) that game time duration has no correlation with clinical outcome measures in robotic-assisted therapy. 
 
-#### Limitations and future adaptations
+### Limitations and future adaptations
 The present study has some limitations that should be mentioned. First, sample size of six patients was small and variability in baseline characteristics was high, which, to some extent, explains the low effects of the training. However, the main aim of this study was determing the feasibility of home-based robotic-assisted training and not effectiveness of the robotic device.
 
 The diversity and progression of game complexity are factors to maintain compliance ([Lewis & Rosie, 2012](https://pubmed.ncbi.nlm.nih.gov/22480353/)). So exergame adaptations would be introduced based on patients’ feedback, and more selection of exergames will be offered in future studies to increase engagement and provide various challenges to motivate patients. Furthermore, purpose and expectations of the exergames promotes long-term usage at home. So, providing feedback in the robotic platform after each gameplay that is easily understood and readily associated with physical/cognitive success will be introduced in later versions. 
 
-#### Conclusion
+### Conclusion
 The results indicate that a home-based therapy with a robotic device through exergaming is feasible and at least half of the patients shows some compliance and acceptance. This study presented the actual exergaming behaviour of poststroke patients, and highlights the importance of game variability/challenge so that exergaming would remain fun. Three games were deployed during the home-based training, with ‘Catch the Fish’ reporting the highest movement velocities, thus, the game with the most intensive task training. Mean movement velocities increased in the sessions in the ‘Explore the World’ and ‘Drone’ games, suggesting that patients have learnt to optimize movement strategies in these games. The long-term goal is that the players would make an active decision for gameplay, and a mere health benefit should not be the only motivation for patients to continue exergaming during home-based therapy. 
 
 
