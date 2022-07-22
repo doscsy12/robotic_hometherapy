@@ -16,6 +16,8 @@ It is possible to analyse patients’ gaming behaviour from their usage patterns
 
 None of the participants followed guidelines of 90-120 mins of daily use for 30 days consecutively. Compliance was seen as indicative of motivation, noncompliance as a lack of motivation. Unfortunately, only three of the patients in this study complied with (almost) daily use of robotic device; They also spent the most total amount of time in home-based therapy. With minimal support or supervision, patients can quickly lose interest and experience a decline in game play within the first few weeks. We hypothesized that sustained engagement after week 4 may be needed for continued use of the robotic device. While the patients were selected based on a need for therapy after stroke, the usage intentions behind time spent on the games and key motivators for sustained game play are unknown. It is possible that the patients wanted enjoyment, improved motor function or both. 
 
+Sample time usage is presented in [Tableau](https://public.tableau.com/app/profile/sook.yee/viz/chisel-usage/Dashboard1?publish=yes).
+
 #### Game performance 
 To evaluate the performance during gameplay, we used a metric based on the smoothness of reaching movements and resulting stiffness/ force values after the completion of each session. The parameter *Kf* is the final stiffness value determined at the end of each session. A negative value would imply that the sessions were more challenging towards the end of the session. In other words, the patient was able to reach each target smoothly, such that, the difficulty level increases as gameplay progresses. Only two patients performed well, i.e., they were performing more challenging tasks in most of the sessions.  
 
