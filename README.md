@@ -1,4 +1,4 @@
-## CHISEL project
+## Feasibility of home-based robotic-assisted therapy 
 
 ### Background
 Stroke is one of the leading causes of long-term disabilities, resulting in cognitive and motor impairments. Robot-mediated therapy during rehabilitation will offer highly repetitive, and high-intensity training, which will reduce manual burden on clinicians while improving motor function. Furthermore, training at home, will adhere to physical distancing measures and reduce potential exposure to Covid19 infection for vulnerable elderly population.
